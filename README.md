@@ -50,4 +50,3 @@ After studying these materials, students will be able to:
 - Convolutional Neural Network (CNN)
 - Recurrent Neural Network (RNN)
 - Long Short-Term Memory (LSTM)
-- G
